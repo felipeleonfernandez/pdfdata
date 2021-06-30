@@ -1,2 +1,2 @@
-# pdfdata
-Repository with the files of the pdfdata R package
+# PDFData R package repository
+This repository have the source code from the PDFData R package
