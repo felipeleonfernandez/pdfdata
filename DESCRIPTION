@@ -5,7 +5,7 @@ Version: 1.0.4
 Author: Felipe León Fernández
 Maintainer: Felipe León Fernández <felipe.leon.fernandez@alumnos.upm.es>
 Description: This package can extract XML contents previously inserted in a PDF document, convert those XML contents into a
-    dataframe, transpose a dataframe and validate the XML against the PDFDriver XSD.
+    dataframe, transpose a dataframe and validate the XML against the pdfdata XSD.
 License: GNU General Public License
 Encoding: UTF-8
 LazyData: true
